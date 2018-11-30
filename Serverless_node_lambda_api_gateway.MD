@@ -105,7 +105,7 @@ layers:
 Just curl your api gateway endpoint:
 
 ```bash
-https://<deployedid>.execute-api.us-east-1.amazonaws.com/dev/users/create
+curl https://<deployedid>.execute-api.us-east-1.amazonaws.com/dev/users/create
 ```
 
 Result expected:
